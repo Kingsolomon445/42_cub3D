@@ -1,0 +1,10 @@
+NO ./texture/tech_wall3.png
+SO ./texture/tech_wall1.png
+EA ./texture/tech_wall4.png
+WE ./texture/tech_wall2.png
+
+F 220,100,0
+C 225,30,0
+
+
+
