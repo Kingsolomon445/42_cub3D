@@ -1,7 +1,7 @@
 
 
 C 0,     71,125
-F 94,69,0
+F 94,100,0
 
 NO ./texture/tech_wall1.png
 SO ./texture/tech_wall1.png
